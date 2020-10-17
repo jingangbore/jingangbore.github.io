@@ -1,18 +1,18 @@
 # Site settings | 网站设置
-title: RainbomSea
-SEOTitle: RainbomSea的博客 | RaimbomSea
+title: chaodaichong cs&is
+SEOTitle: chaodaichong的博客 
 header-img: img/home-bg-he.png
-email: RainbomSea@qq.com
-description: "RainbomSea的博客"
-keyword: "RainbomSea, RainbomSea的博客, rainbom sea, rainbomsea, Python blog"
-url: "http://RainbomSea.github.io"          # your host, for absolute URL
+email: chaodaichong@163.com
+description: "chaodaichong的博客"
+keyword: "computer science(cs) & information secrutity(is)"
+url: "http://jingangbore.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/RainbomSea/RainbomSea.github.io.git" #code repository | 代码仓库
+github_repo: "https://github.com/jingangbore/jingangbore.github.io.git"
 
 
 # Sidebar settings | 侧边栏设置
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "就算这样,也要笑着去努力啊!"
+sidebar-about-description: "笑着努力啊!"
 sidebar-avatar: /img/head.jpg      # 头像
 
 
@@ -20,7 +20,7 @@ sidebar-avatar: /img/head.jpg      # 头像
 
 
 # SNS settings | 社交网络设置
-github_username: RainbomSea
+github_username: jingangbore
 
 
 
